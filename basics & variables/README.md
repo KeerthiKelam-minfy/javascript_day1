@@ -8,7 +8,9 @@ console.log(favoriteFood)
 </pre>
 
 **Output:**   
+<pre>
 Chocolate
+</pre>
 
   
 <pre>
@@ -26,7 +28,9 @@ if(numA > numB) {
 </pre>
 
 **Output:**  
+<pre>
 numA(15) is larger.
+</pre>
   
 <pre>
 //3. Medium
@@ -45,6 +49,7 @@ for(let i = 1; i <= 20; i++) {
 </pre>
 
 **Output:**  
+<pre>
 1  
 2  
 3 - Fizz  
@@ -65,3 +70,4 @@ for(let i = 1; i <= 20; i++) {
 18 - Fizz  
 19  
 20 - Buzz  
+</pre>
