@@ -7,7 +7,7 @@ const favoriteFood = "Chocolate"
 console.log(favoriteFood)
 </pre>
 
-**Output:**
+**Output:**   
 Chocolate
 
   
@@ -25,7 +25,7 @@ if(numA > numB) {
 }
 </pre>
 
-**Output:**
+**Output:**  
 numA(15) is larger.
   
 <pre>
@@ -44,7 +44,7 @@ for(let i = 1; i <= 20; i++) {
 }
 </pre>
 
-**Output:**
+**Output:**  
 1  
 2  
 3 - Fizz  
