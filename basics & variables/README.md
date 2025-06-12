@@ -1,9 +1,9 @@
 # basics & variables
 
 ## 1. [Easy]
+
+**Code:** 
 <pre>
-
-
 const favoriteFood = "Chocolate"
 console.log(favoriteFood)
 </pre>
@@ -15,6 +15,8 @@ Chocolate
 
 
 ## 2. [Easy]  
+
+**Code:**   
 <pre>
 
 let numA = 15
@@ -34,6 +36,8 @@ numA(15) is larger.
 </pre>
 
 ## 3. [Medium]
+
+**Code:**   
 <pre>
 
 for(let i = 1; i <= 20; i++) {
