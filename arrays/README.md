@@ -16,7 +16,7 @@ console.log(colors)
 </pre>
 
 
-## 2. [Easy]  
+## 2. [Medium]  
 
 **Code:**   
 <pre> 
