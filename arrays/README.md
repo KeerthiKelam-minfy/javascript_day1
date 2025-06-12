@@ -20,13 +20,11 @@ console.log(colors)
 
 **Code:**   
 <pre> 
-  
 let numbers = [10, 20, 30, 40, 50];
 const increasedNumbers = numbers.map(function(number) {
     return number + 5
 })
 console.log(increasedNumbers)
-  
 </pre>
 
 **Output:**  
@@ -38,11 +36,9 @@ console.log(increasedNumbers)
 
 **Code:**   
 <pre>
-
 let scores = [25, 80, 45, 95, 60, 75];
 const greaterThan70 = scores.filter(score => score >= 70)
 console.log(greaterThan70)
-  
 </pre>
 
 **Output:**  
@@ -53,12 +49,10 @@ console.log(greaterThan70)
 ## 4. [Hard]
 
 **Code:**   
-<pre>
-  
+<pre> 
 let scores = [25, 80, 45, 95, 60, 75];
 const average = scores.reduce((a, currentValue) => a + currentValue, 0) / scores.length
-console.log(average)
-  
+console.log(average)  
 </pre>
 
 **Output:**  
