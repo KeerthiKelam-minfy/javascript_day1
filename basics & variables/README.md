@@ -1,7 +1,8 @@
 # basics & variables
 
+## 1. [Easy]
 <pre>
-// 1. Easy
+
 
 const favoriteFood = "Chocolate"
 console.log(favoriteFood)
@@ -12,9 +13,9 @@ console.log(favoriteFood)
 Chocolate
 </pre>
 
-  
+
+## 2. [Easy]  
 <pre>
-//2. Easy
 
 let numA = 15
 let numB = 10
@@ -31,9 +32,9 @@ if(numA > numB) {
 <pre>
 numA(15) is larger.
 </pre>
-  
+
+## 3. [Medium]
 <pre>
-//3. Medium
 
 for(let i = 1; i <= 20; i++) {
     if(i % 3 == 0 && i % 5 == 0) {
