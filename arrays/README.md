@@ -11,8 +11,7 @@ console.log(colors)
 </pre>
 
 **Output:**   
-![image](https://github.com/user-attachments/assets/0cffec7e-cf4d-4cb6-bb8e-583184211b6f)
-
+![image](https://github.com/user-attachments/assets/d21782b0-338d-44fc-8d5e-09bfd992783f)
 
 
 ## 2. [Medium]  
@@ -27,7 +26,7 @@ console.log(increasedNumbers)
 </pre>
 
 **Output:**  
-![image](https://github.com/user-attachments/assets/a79a7a5a-0747-425c-9126-97184b84cdd1)
+![image](https://github.com/user-attachments/assets/ab50b9b5-1a4a-40d7-97d3-4126f28bd203)
 
 
 ## 3. [Medium]
@@ -40,7 +39,7 @@ console.log(greaterThan70)
 </pre>
 
 **Output:**  
-![image](https://github.com/user-attachments/assets/75d682f8-ffa5-423b-8a4a-cffcf48f2121)
+![image](https://github.com/user-attachments/assets/f7fc0ff1-2991-408d-a1f1-251d14a81c46)
 
 
 ## 4. [Hard]
@@ -53,4 +52,4 @@ console.log(average)
 </pre>
 
 **Output:**  
-![image](https://github.com/user-attachments/assets/6935504d-61ab-460f-97bb-7d78711f19aa)
+![image](https://github.com/user-attachments/assets/c5e549bf-fd4a-46b7-929c-f6a85bd8b5aa)
