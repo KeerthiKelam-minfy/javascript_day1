@@ -11,7 +11,7 @@ console.log(colors)
 </pre>
 
 **Output:**   
-![image](https://github.com/user-attachments/assets/d21782b0-338d-44fc-8d5e-09bfd992783f)
+![image](https://github.com/user-attachments/assets/d916990c-bbd0-40ce-8759-9711ffd1fc4c)
 
 
 ## 2. [Medium]  
