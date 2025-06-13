@@ -9,9 +9,7 @@ console.log(favoriteFood)
 </pre>
 
 **Output:**   
-<pre>
-Chocolate
-</pre>
+![image](https://github.com/user-attachments/assets/41f62e5e-e3d9-445b-b442-f81fa08fc525)
 
 
 ## 2. [Easy]  
@@ -31,9 +29,8 @@ if(numA > numB) {
 </pre>
 
 **Output:**  
-<pre>
-numA(15) is larger.
-</pre>
+![image](https://github.com/user-attachments/assets/ed387881-1445-4228-9fee-3e99c3d61bc5)
+
 
 ## 3. [Medium]
 
@@ -54,25 +51,4 @@ for(let i = 1; i <= 20; i++) {
 </pre>
 
 **Output:**  
-<pre>
-1  
-2  
-3 - Fizz  
-4  
-5 - Buzz  
-6 - Fizz  
-7  
-8   
-9 - Fizz  
-10 - Buzz  
-11  
-12 - Fizz   
-13  
-14  
-15 - FizzBuzz  
-16  
-17  
-18 - Fizz  
-19  
-20 - Buzz  
-</pre>
+![image](https://github.com/user-attachments/assets/23c0e843-2fe5-45c5-bd52-ea7fcadcd5ed)
