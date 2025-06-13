@@ -24,13 +24,7 @@ console.log(highAchievers)
 </pre>
 
 **Output:**   
-<pre>
-[
-  { id: 1, name: 'Keerthi', score: 90 },
-  { id: 2, name: 'Aarthi', score: 100 }
-]
-[ 'KEERTHI', 'AARTHI' ]
-</pre>
+![image](https://github.com/user-attachments/assets/03842830-5bdc-414b-8688-4827fff1c3bb)
 
 
 ## 2. [Hard]  
@@ -45,7 +39,7 @@ function createGame() {
         }else if(number < secretNumber) {
             console.log(secretNumber - number > 3? "Too low!" : "Low, but close!")
         }else{
-            console.log(number - secretNumber > 3? "too high!" : "High, but close!")
+            console.log(number - secretNumber > 3? "Too high!" : "High, but close!")
         }
     }
     return guess
@@ -66,15 +60,5 @@ play(10)
 </pre>
 
 **Output:**  
-<pre>
-Too low!
-Too low!
-Too low!
-Too low!
-Too low!
-Too low!
-Low, but close!
-Low, but close!
-Low, but close!
-You guessed it!
-</pre>
+![image](https://github.com/user-attachments/assets/255cb112-961e-4727-a8a1-6e2d439157fa)
+
