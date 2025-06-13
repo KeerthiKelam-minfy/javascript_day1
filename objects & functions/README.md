@@ -13,9 +13,7 @@ console.log(movie.title)
 </pre>
 
 **Output:**   
-<pre>
-Bahubali
-</pre>
+![image](https://github.com/user-attachments/assets/5b195360-61e2-4f9c-956d-3954ac8c35c5)
 
 
 ## 2. [Medium]  
@@ -34,9 +32,8 @@ printUserDetails(person)
 </pre>
 
 **Output:**  
-<pre>
-User's name is Keerthi, and they are 20 years old.
-</pre>
+![image](https://github.com/user-attachments/assets/39e90b77-add7-42ef-be2b-ac552b21c8c5)
+
 
 ## 3. [Medium]
 
@@ -52,6 +49,5 @@ console.log(search)
 </pre>
 
 **Output:**  
-<pre>
-{ id: 1, username: 'keerthikelam' }
-</pre>
+![image](https://github.com/user-attachments/assets/b9f2d9c4-c3fa-47d1-8e11-05b69e5ad9c6)
+
